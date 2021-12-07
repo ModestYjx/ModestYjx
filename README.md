@@ -12,4 +12,4 @@
 ## 3. 我的组织
 | 组织名称         | 简介                         | 地址                                          |
 | ---------------- | ---------------------------- | --------------------------------------------- |
-| 1. Cheer-for-fun | 目前由pkuer and ecnuer组成。 | https://github.com/Cheer-for-fun/open-bbs-sdk |
+| 1. Cheer-for-fun | 目前由pkuer and ecnuer组成。 | https://github.com/Cheer-for-fun/ |
