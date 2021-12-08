@@ -9,7 +9,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ModestYjx.readme)
 
 
-<img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" alt="email" title="email" width="15" height="15" />Contack with Me:yjxcodet@gmail.com
 
 ## 2. 我的开源项目
 | 项目名称     | 简介                                                         | 地址                                          |
@@ -20,3 +19,11 @@
 | 组织名称         | 简介                         | 地址                                          |
 | ---------------- | ---------------------------- | --------------------------------------------- |
 | 1. Cheer-for-fun | 目前由pkuer and ecnuer组成。 | https://github.com/Cheer-for-fun/ |
+
+## 4. Contact with Me
+
+| way | website                                      |
+| --------------- | -------------------------------------------- |
+| email           | yjxcoder@gmail.com                           |
+| zhihu           | https://www.zhihu.com/people/yang-jia-xun-66 |
+| gitee           | https://gitee.com/yang929604665              |
