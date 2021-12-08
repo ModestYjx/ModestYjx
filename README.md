@@ -1,10 +1,16 @@
 # Hi,here！👋
 ## 1. 阳家勋 YANG Jiaxun Github Stats
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ModestYjx&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModestYjx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ModestYjx.readme)
+
+
+<img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/mail.png" alt="email" title="email" width="15" height="15" />Contack with Me:yjxcodet@gmail.com
+
 ## 2. 我的开源项目
 | 项目名称     | 简介                                                         | 地址                                          |
 | ---------------- | ------------------------------------------------------------ | --------------------------------------------- |
@@ -14,4 +20,3 @@
 | 组织名称         | 简介                         | 地址                                          |
 | ---------------- | ---------------------------- | --------------------------------------------- |
 | 1. Cheer-for-fun | 目前由pkuer and ecnuer组成。 | https://github.com/Cheer-for-fun/ |
-
