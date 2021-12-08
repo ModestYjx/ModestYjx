@@ -13,12 +13,12 @@
 ## 2. 我的开源项目
 | 项目名称     | 简介                                                         | 地址                                          |
 | ---------------- | ------------------------------------------------------------ | --------------------------------------------- |
-| 1. open-BBS-SDK  | 如题所示，此项目为一个 对 BBSer, ecnuer and scuter免费开放的开源项目，未来的发展方向是做面向企业端的各种SDK。 | https://github.com/Cheer-for-fun/open-bbs-sdk |
+| 1. open-BBS-SDK  | 如题所示，此项目为一个 对 BBSer, ecnuer and scuter免费开放的开源项目，目前聚焦于解决大学生学习生活中的各种各种困难，未来的发展方向是做一整套学生生活、学习与创业等各项服务的SDK。 | https://github.com/Cheer-for-fun/open-bbs-sdk |
  
 ## 3. 我的组织
 | 组织名称         | 简介                         | 地址                                          |
 | ---------------- | ---------------------------- | --------------------------------------------- |
-| 1. Cheer-for-fun | 目前由pkuer, ecnuer and scuter组成。 | https://github.com/Cheer-for-fun/ |
+| 1. Cheer-for-fun | 目前由pkuer, ecnuer and scuter组成，欢迎新同学的加入。 | https://github.com/Cheer-for-fun/ |
 
 ## 4. Contact with Me
 
