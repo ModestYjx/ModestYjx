@@ -4,6 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModestYjx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://visitor-badge.glitch.me/badge?page_id=ModestYjx.readme)
 ## 2. 我的开源项目
 | 项目名称     | 简介                                                         | 地址                                          |
 | ---------------- | ------------------------------------------------------------ | --------------------------------------------- |
@@ -14,4 +15,3 @@
 | ---------------- | ---------------------------- | --------------------------------------------- |
 | 1. Cheer-for-fun | 目前由pkuer and ecnuer组成。 | https://github.com/Cheer-for-fun/ |
 
-![](https://visitor-badge.glitch.me/badge?page_id=ModestYjx.readme)
