@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModestYjx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://visitor-badge.glitch.me/badge?page_id=ModestYjx.readme)
+
 ## 2. My Skill Set
 
 <table><tr><td valign="top" width="33%">
