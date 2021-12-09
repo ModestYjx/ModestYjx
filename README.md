@@ -47,9 +47,21 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-### 1.3 Connect with me
+## 2. 我的开源项目
+
+| 项目名称     | 简介                                                         | 地址                                          |
+| ---------------- | ------------------------------------------------------------ | --------------------------------------------- |
+| 1. open-stuLife-sdk  | 如题所示，此项目为一个 对 BBSer, ecnuer and scuter免费开放的开源项目，目前聚焦于解决大学生学习生活中的各种各种困难，未来的发展方向是做一整套学生生活、学习与创业等各项服务的SDK。 | https://github.com/Cheer-for-fun/open-stuLife-sdk |
+
+## 3. 我的组织
+
+| 组织名称         | 简介                         | 地址                                          |
+| ---------------- | ---------------------------- | --------------------------------------------- |
+| 1. Cheer-for-fun | 目前由pkuer, ecnuer and scuter组成，欢迎新同学的加入。 | https://github.com/Cheer-for-fun/ |
+
+## 4. Connect with me
 
 | way | website                                      |
 | --------------- | -------------------------------------------- |
@@ -65,17 +77,3 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-## 2. 我的开源项目
-
-| 项目名称     | 简介                                                         | 地址                                          |
-| ---------------- | ------------------------------------------------------------ | --------------------------------------------- |
-| 1. open-stuLife-sdk  | 如题所示，此项目为一个 对 BBSer, ecnuer and scuter免费开放的开源项目，目前聚焦于解决大学生学习生活中的各种各种困难，未来的发展方向是做一整套学生生活、学习与创业等各项服务的SDK。 | https://github.com/Cheer-for-fun/open-stuLife-sdk |
-
-## 3. 我的组织
-
-| 组织名称         | 简介                         | 地址                                          |
-| ---------------- | ---------------------------- | --------------------------------------------- |
-| 1. Cheer-for-fun | 目前由pkuer, ecnuer and scuter组成，欢迎新同学的加入。 | https://github.com/Cheer-for-fun/ |
-
-
