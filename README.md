@@ -8,12 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModestYjx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### <div align="center">I'm ModestYjx, a student in Peking University and developer for fun 👨‍💻since 2017 🚀</div>
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)
-
-- 🌱 I’m currently learning go and algorithm.
-
 ### 1.2 My Skill Set
 
 <table><tr><td valign="top" width="33%">
