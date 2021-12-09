@@ -1,18 +1,16 @@
 # Hi,here！👋
 
-## 1. 阳家勋 YANG Jiaxun
-
-### 1.1 Github Stats
+## 1. 阳家勋 YANG Jiaxun Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ModestYjx&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModestYjx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### 1.2 My Skill Set
+## 2. My Skill Set
 
 <table><tr><td valign="top" width="33%">
 
-#### Frontend
+### Frontend
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -24,7 +22,7 @@
 
 </td><td valign="top" width="33%">
 
-#### Backend
+### Backend
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
@@ -38,7 +36,7 @@
 
 </td><td valign="top" width="33%">
 
-#### DevOps
+### DevOps
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
@@ -48,20 +46,20 @@
 
 </td></tr></table>
 
-## 2. 我的开源项目
+## 3. 我的开源项目
 
 | 项目名称     | 简介                                                         | 地址                                          |
 | ---------------- | ------------------------------------------------------------ | --------------------------------------------- |
 | 1. open-stuLife-sdk  | 如题所示，此项目为一个 对 BBSer, ecnuer and scuter免费开放的开源项目，目前聚焦于解决大学生学习生活中的各种各种困难，未来的发展方向是做一整套学生生活、学习与创业等各项服务的SDK。 | https://github.com/Cheer-for-fun/open-stuLife-sdk |
 | 2. “MAgriculture”--StrawberryPickingSolution  | 近年来，草莓采摘旅游进入到了人们的视野。通过设计一款基于人工智能的软件实现草莓成熟度检测、农作物知识普及与数字化农业管理，确保游客尽快采摘到成熟度最高的草莓，普及中小学生农村经验教育，并能提高游客游玩体验，节省农场主人力雇佣成本。 | https://github.com/ModestYjx/StrawberryPickingSolution |
 
-## 3. 我的组织
+## 4. 我的组织
 
 | 组织名称         | 简介                         | 地址                                          |
 | ---------------- | ---------------------------- | --------------------------------------------- |
 | 1. Cheer-for-fun | 目前由pkuer, ecnuer and scuter组成，欢迎新同学的加入。 | https://github.com/Cheer-for-fun/ |
 
-## 4. Contact with me
+## 5. Contact with me
 
 | way | website                                      |
 | --------------- | -------------------------------------------- |
