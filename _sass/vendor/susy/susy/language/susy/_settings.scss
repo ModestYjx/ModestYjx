@@ -5,18 +5,18 @@
 // ----------------------
 // - PRIVATE
 @include susy-defaults((
-  container: auto,
-  math: fluid,
-  output: float,
-  container-position: center,
-  gutter-position: after,
-  global-box-sizing: content-box,
-  debug: (
-    image: hide,
-    color: rgba(#66f, .25),
-    output: background,
-    toggle: top right,
-  ),
+        container: auto,
+        math: fluid,
+        output: float,
+        container-position: center,
+        gutter-position: after,
+        global-box-sizing: content-box,
+        debug: (
+                image: hide,
+                color: rgba(#66f, .25),
+                output: background,
+                toggle: top right,
+        ),
 ));
 
 
@@ -24,21 +24,21 @@
 // --------------------
 // - PRIVATE: DONT'T TOUCH
 $susy-keywords: (
-  container: auto,
-  math: static fluid,
-  output: isolate float,
-  container-position: left center right,
-  flow: ltr rtl,
-  gutter-position: before after split inside inside-static,
-  box-sizing: border-box content-box,
-  span: full,
-  edge: first alpha last omega full,
-  spread: narrow wide wider,
-  gutter-override: no-gutters no-gutter,
-  role: nest,
-  clear: break nobreak,
-  debug image: show hide show-columns show-baseline,
-  debug output: background overlay,
+        container: auto,
+        math: static fluid,
+        output: isolate float,
+        container-position: left center right,
+        flow: ltr rtl,
+        gutter-position: before after split inside inside-static,
+        box-sizing: border-box content-box,
+        span: full,
+        edge: first alpha last omega full,
+        spread: narrow wide wider,
+        gutter-override: no-gutters no-gutter,
+        role: nest,
+        clear: break nobreak,
+        debug image: show hide show-columns show-baseline,
+        debug output: background overlay,
 );
 
 
@@ -61,7 +61,7 @@ $susy-keywords: (
             $_return: _susy-deep-set($_return, $_key-value...);
           }
         }
-      // maps
+        // maps
       } @else if type-of($item) == map {
         $_return: map-merge($_return, $item);
       }
@@ -90,8 +90,8 @@ $susy-keywords: (
 
   @if type-of($_gutters) == list and length($_gutters) > 0 {
     $_gutters: (
-      gutters: nth($_gutters, 2) / nth($_gutters, 1),
-      column-width: nth($_gutters, 1),
+            gutters: nth($_gutters, 2) / nth($_gutters, 1),
+            column-width: nth($_gutters, 1),
     );
   } @else {
     $_gutters: if($_gutters, (gutters: $_gutters), ());

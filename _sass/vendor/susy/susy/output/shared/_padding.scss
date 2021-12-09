@@ -15,8 +15,8 @@
   $from: from($flow);
 
   $output: (
-    padding-#{$from}: $before,
-    padding-#{$to}: $after,
+          padding-#{$from}: $before,
+          padding-#{$to}: $after,
   );
 
   @include output($output);

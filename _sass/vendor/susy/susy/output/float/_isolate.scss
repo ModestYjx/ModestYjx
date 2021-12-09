@@ -13,9 +13,9 @@
   $from: from($flow);
 
   $output: (
-    float: $from,
-    margin-#{$from}: $push,
-    margin-#{$to}: -100%,
+          float: $from,
+          margin-#{$from}: $push,
+          margin-#{$to}: -100%,
   );
 
   @include output($output);

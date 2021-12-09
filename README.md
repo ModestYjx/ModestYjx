@@ -1,24 +1,25 @@
 # Hi,here！👋
+
 ## 1. 阳家勋 YANG Jiaxun
 
-### <div align="center">I'm ModestYjx, a student in Peking University and developer for fun 👨‍💻since 2017 🚀</div>
+### 1.1 Github Stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ModestYjx&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModestYjx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+#### <div align="center">I'm ModestYjx, a student in Peking University and developer for fun 👨‍💻since 2017 🚀</div>
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)
 
-
 - 🌱 I’m currently learning go and algorithm.
 
+### 1.2 My Skill Set
 
-<br/>  
-
-
-## My Skill Set
 <table><tr><td valign="top" width="33%">
 
+#### Frontend
 
-
-### Frontend
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
@@ -29,9 +30,8 @@
 
 </td><td valign="top" width="33%">
 
+#### Backend
 
-
-### Backend
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
@@ -45,9 +45,8 @@
 
 </td><td valign="top" width="33%">
 
+#### DevOps
 
-
-### DevOps
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -56,10 +55,14 @@
 
 </td></tr></table>  
 
-<br/>  
+### 1.3 Connect with me
 
+| way | website                                      |
+| --------------- | -------------------------------------------- |
+| email           | yjxcoder@gmail.com                           |
+| zhihu           | https://www.zhihu.com/people/yang-jia-xun-66 |
+| gitee           | https://gitee.com/yang929604665              |
 
-## Connect with me
 <div align="center">
 <a href="https://github.com/ModestYjx" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -69,59 +72,17 @@
 </a>  
 </div>  
 
-
-<br/>  
-
-
-## Github Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ModestYjx&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ModestYjx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<br/>  
-
-
-## Recent Blog Posts
-
-
-<br/>  
-
-
-
-<br/>  
-
-<div align="center">
-
-![](https://visitor-badge.glitch.me/badge?page_id=ModestYjx.readme)
-</div>  
-
-
-<br/>  
-
-
-<br />
-
-----
-
-
-
-
 ## 2. 我的开源项目
+
 | 项目名称     | 简介                                                         | 地址                                          |
 | ---------------- | ------------------------------------------------------------ | --------------------------------------------- |
 | 1. open-stuLife-sdk  | 如题所示，此项目为一个 对 BBSer, ecnuer and scuter免费开放的开源项目，目前聚焦于解决大学生学习生活中的各种各种困难，未来的发展方向是做一整套学生生活、学习与创业等各项服务的SDK。 | https://github.com/Cheer-for-fun/open-stuLife-sdk |
- 
+
 ## 3. 我的组织
+
 | 组织名称         | 简介                         | 地址                                          |
 | ---------------- | ---------------------------- | --------------------------------------------- |
 | 1. Cheer-for-fun | 目前由pkuer, ecnuer and scuter组成，欢迎新同学的加入。 | https://github.com/Cheer-for-fun/ |
 
 ## 4. Contact with Me
 
-| way | website                                      |
-| --------------- | -------------------------------------------- |
-| email           | yjxcoder@gmail.com                           |
-| zhihu           | https://www.zhihu.com/people/yang-jia-xun-66 |
-| gitee           | https://gitee.com/yang929604665              |

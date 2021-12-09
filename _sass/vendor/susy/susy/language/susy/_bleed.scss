@@ -8,8 +8,8 @@
 @mixin bleed(
   $bleed: 0 gutter()
 ) {
-  $inspect  : $bleed;
-  $output   : get-bleed($bleed);
+  $inspect: $bleed;
+  $output: get-bleed($bleed);
 
   @if susy-get(global-box-sizing) != content-box {
     $output: map-merge((box-sizing: content-box), $output);
@@ -27,8 +27,8 @@
 @mixin bleed-x(
   $bleed: gutter()
 ) {
-  $bleed  : parse-span($bleed);
-  $trbl   : susy-get(span, $bleed);
+  $bleed: parse-span($bleed);
+  $trbl: susy-get(span, $bleed);
 
   @if length($trbl) == 1 {
     $bleed: map-merge($bleed, (span: 0 nth($trbl, 1)));
@@ -49,8 +49,8 @@
 @mixin bleed-y(
   $bleed: if(function-exists(rhythm), rhythm(1), 1em)
 ) {
-  $bleed  : parse-span($bleed);
-  $trbl   : susy-get(span, $bleed);
+  $bleed: parse-span($bleed);
+  $trbl: susy-get(span, $bleed);
 
   @if length($trbl) == 1 {
     $bleed: map-merge($bleed, (span: nth($trbl, 1) 0));
@@ -71,10 +71,10 @@
 @function get-bleed(
   $bleed
 ) {
-  $bleed    : map-merge((spread: wide), parse-span($bleed));
-  $trbl     : susy-get(span, $bleed);
-  $short    : null;
-  $output   : ();
+  $bleed: map-merge((spread: wide), parse-span($bleed));
+  $trbl: susy-get(span, $bleed);
+  $short: null;
+  $output: ();
 
   @for $i from 1 through length($trbl) {
     $this: nth($trbl, $i);
@@ -102,31 +102,31 @@
 
     @if $i == 1 {
       $new: (
-        margin-top: $margin,
-        padding-top: $padding,
-        margin-right: $margin,
-        padding-right: $padding-x,
-        margin-bottom: $margin,
-        padding-bottom: $padding,
-        margin-left: $margin,
-        padding-left: $padding-x,
+              margin-top: $margin,
+              padding-top: $padding,
+              margin-right: $margin,
+              padding-right: $padding-x,
+              margin-bottom: $margin,
+              padding-bottom: $padding,
+              margin-left: $margin,
+              padding-left: $padding-x,
       );
     } @else if $i == 2 {
       $new: (
-        margin-right: $margin,
-        padding-right: $padding-x,
-        margin-left: $margin,
-        padding-left: $padding-x,
+              margin-right: $margin,
+              padding-right: $padding-x,
+              margin-left: $margin,
+              padding-left: $padding-x,
       );
     } @else if $i == 3 {
       $new: (
-        margin-bottom: $margin,
-        padding-bottom: $padding,
+              margin-bottom: $margin,
+              padding-bottom: $padding,
       );
     } @else if $i == 4 {
       $new: (
-        margin-left: $margin,
-        padding-left: $padding-x,
+              margin-left: $margin,
+              padding-left: $padding-x,
       );
     }
 
@@ -160,8 +160,8 @@
   }
 
   $props: (
-    margin: $margin,
-    padding: $padding,
+          margin: $margin,
+          padding: $padding,
   );
 
   @each $name, $map in $props {

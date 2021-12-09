@@ -11,7 +11,9 @@
 // and adjust the grid math appropriately.
 @mixin border-box-sizing {
   $border-box-sizing: true !global;
-  * { @include box-sizing(border-box); }
+  * {
+    @include box-sizing(border-box);
+  }
 }
 
 // ---------------------------------------------------------------------------
@@ -24,7 +26,7 @@
   $columns  : $total-columns,
   $style    : $container-style,
   $px-vals  : $pixel-values-only
-){
+) {
   $width: container-outer-width($columns);
 
   @if $style == 'static' {
@@ -49,7 +51,7 @@
         @include rem(max-width, $width);
       }
 
-      @include for-legacy-browser(ie,"6") {
+      @include for-legacy-browser(ie, "6") {
         @if unit($width) == 'rem' {
           _width: round(convert-length($width, px));
         } @else {
@@ -66,7 +68,7 @@
 @mixin apply-container(
   $columns  : $total-columns,
   $px-vals  : $pixel-values-only
-){
+) {
   @include pie-clearfix;
   @include set-container-width($columns);
   @if $px-vals == true {
@@ -76,7 +78,10 @@
     @include rem(padding-left, $grid-padding);
     @include rem(padding-right, $grid-padding);
   }
-  margin: { left: auto; right: auto; }
+  margin: {
+    left: auto;
+    right: auto;
+  }
 }
 
 // Set one or more layouts on a grid-containing element at any number of media-query breakpoints.
@@ -87,7 +92,7 @@
 // $media-layout-2 ...-10 : [optional] Same as $media-layout-1
 @mixin container(
   $media-layouts...
-){
+) {
   $media-layouts: if(length($media-layouts) > 0, $media-layouts, $total-columns);
 
   @each $ml in $media-layouts {
@@ -121,15 +126,15 @@
   $from          : $from-direction,
   $style         : fix-static-misalignment()
 ) {
-  $from     : unquote($from);
-  $to       : opposite-position($from);
-  $pos      : split-columns-value($columns,position);
-  $cols     : split-columns-value($columns,columns);
-  $pad-from : if($style == static, 0 * $gutter-width, relative-width(0 * $gutter-width, $context));
-  $pad-to   : if($style == static, 0 * $gutter-width, relative-width(0 * $gutter-width, $context));
+  $from: unquote($from);
+  $to: opposite-position($from);
+  $pos: split-columns-value($columns, position);
+  $cols: split-columns-value($columns, columns);
+  $pad-from: if($style == static, 0 * $gutter-width, relative-width(0 * $gutter-width, $context));
+  $pad-to: if($style == static, 0 * $gutter-width, relative-width(0 * $gutter-width, $context));
 
   @if $padding != false {
-    $pad-from : nth($padding, 1);
+    $pad-from: nth($padding, 1);
 
     @if length($padding) > 1 {
       $pad-to: nth($padding, 2);
@@ -137,8 +142,8 @@
       $pad-to: $pad-from;
     }
 
-    $pad-from : if($style == static, $pad-from, relative-width($pad-from, $context));
-    $pad-to   : if($style == static, $pad-to, relative-width($pad-to, $context));
+    $pad-from: if($style == static, $pad-from, relative-width($pad-from, $context));
+    $pad-to: if($style == static, $pad-to, relative-width($pad-to, $context));
 
     padding-#{$from}: $pad-from;
     padding-#{$to}: $pad-to;
@@ -164,9 +169,9 @@
 @mixin omega(
   $from     : $from-direction
 ) {
-  $from   : unquote($from);
-  $to     : opposite-position($from);
-  $hack   : opposite-position($omega-float);
+  $from: unquote($from);
+  $to: opposite-position($from);
+  $hack: opposite-position($omega-float);
 
   float: $omega-float;
   margin-#{$to}: 0;
@@ -189,7 +194,7 @@
   $selector : child,
   $from     : $from-direction
 ) {
-  $from     : unquote($from);
+  $from: unquote($from);
 
   &:#{format-nth($n,$selector)} {
     @if $n == "first" {
@@ -203,7 +208,6 @@
 }
 
 
-
 // ---------------------------------------------------------------------------
 // Resets
 
@@ -213,9 +217,9 @@
 @mixin reset-columns(
   $from: $from-direction
 ) {
-  $from   : unquote($from);
-  $to     : opposite-position($from);
-  $hack   : opposite-position($omega-float);
+  $from: unquote($from);
+  $to: opposite-position($from);
+  $hack: opposite-position($omega-float);
 
   float: none;
   width: auto;
@@ -240,9 +244,9 @@
   $from     : $from-direction,
   $style    : fix-static-misalignment()
 ) {
-  $from   : unquote($from);
-  $to     : opposite-position($from);
-  $hack   : opposite-position($omega-float);
+  $from: unquote($from);
+  $to: opposite-position($from);
+  $hack: opposite-position($omega-float);
 
   float: $from;
   margin-#{$to}: gutter($context, $style);
@@ -266,7 +270,7 @@
   $from     : $from-direction,
   $style    : fix-static-misalignment()
 ) {
-  $from     : unquote($from);
+  $from: unquote($from);
 
   &:#{format-nth($n,$selector)} {
     @if $n == "first" {

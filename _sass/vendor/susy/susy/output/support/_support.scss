@@ -4,14 +4,14 @@
 // Susy Support Defaults
 // ---------------------
 @include susy-defaults((
-  use-custom: (
-    clearfix: false,
-    background-image: true,
-    background-options: false,
-    breakpoint: true,
-    box-sizing: true,
-    rem: true,
-  ),
+        use-custom: (
+                clearfix: false,
+                background-image: true,
+                background-options: false,
+                breakpoint: true,
+                box-sizing: true,
+                rem: true,
+        ),
 ));
 
 
@@ -35,12 +35,12 @@
     @include susy-background-clip($val);
   }
 
-  // Box-Sizing Support
+    // Box-Sizing Support
   @else if $prop == box-sizing {
     @include susy-box-sizing($val);
   }
 
-  // Rem Support
+    // Rem Support
   @else {
     @include susy-rem($prop, $val);
   }

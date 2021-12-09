@@ -29,7 +29,9 @@
   @include float-span-output($output...);
 
   @if valid-columns($nesting, silent) {
-    @include nested($span) { @content; }
+    @include nested($span) {
+      @content;
+    }
   } @else {
     @content;
   }
@@ -52,16 +54,16 @@
 @function span-math(
   $span
 ) {
-  $nest             : if(susy-get(role, $span) == nest, true, false);
-  $split-nest       : if(is-split($span) and $nest, true, false);
-  $edge             : get-edge($span);
-  $location         : get-location($span);
+  $nest: if(susy-get(role, $span) == nest, true, false);
+  $split-nest: if(is-split($span) and $nest, true, false);
+  $edge: get-edge($span);
+  $location: get-location($span);
 
-  $float            : from;
-  $padding-before   : null;
-  $padding-after    : null;
-  $margin-before    : null;
-  $margin-after     : null;
+  $float: from;
+  $padding-before: null;
+  $padding-after: null;
+  $margin-before: null;
+  $margin-after: null;
 
   // calculate widths
   $spread: index(map-values($span), spread);
@@ -106,13 +108,13 @@
   }
 
   @return (
-    width           : $width,
-    float           : $float,
-    margin-before   : $margin-before,
-    margin-after    : $margin-after,
-    padding-before  : $padding-before,
-    padding-after   : $padding-after,
-    flow            : susy-get(flow, $span),
+          width : $width,
+          float : $float,
+          margin-before : $margin-before,
+          margin-after : $margin-after,
+          padding-before : $padding-before,
+          padding-after : $padding-after,
+          flow : susy-get(flow, $span),
   );
 }
 
@@ -123,17 +125,17 @@
 @function get-span-width(
   $span
 ) {
-  $span     : parse-span($span);
+  $span: parse-span($span);
 
-  $n        : susy-get(span, $span);
-  $location : get-location($span);
-  $columns  : susy-get(columns, $span);
-  $gutters  : susy-get(gutters, $span);
-  $spread   : susy-get(spread, $span);
+  $n: susy-get(span, $span);
+  $location: get-location($span);
+  $columns: susy-get(columns, $span);
+  $gutters: susy-get(gutters, $span);
+  $spread: susy-get(spread, $span);
 
-  $context  : null;
-  $span-sum : null;
-  $width    : null;
+  $context: null;
+  $span-sum: null;
+  $width: null;
 
   @if $n == 'full' {
     $pos: susy-get(gutter-position, $span);

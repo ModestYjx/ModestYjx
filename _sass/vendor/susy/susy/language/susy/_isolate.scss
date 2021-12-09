@@ -12,8 +12,8 @@
   $inspect: $isolate;
 
   $output: (
-    push: isolate($isolate),
-    flow: susy-get(flow, $isolate),
+          push: isolate($isolate),
+          flow: susy-get(flow, $isolate),
   );
 
   @include susy-inspect(isolate, $inspect);
@@ -33,8 +33,8 @@
 
   @if $isolation and not(get-location($isolate)) {
     $new: (
-      span: null,
-      location: $isolation,
+            span: null,
+            location: $isolation,
     );
     $isolate: map-merge($isolate, $new);
   }
@@ -50,9 +50,9 @@
 @function get-isolation(
   $input
 ) {
-  $location   : get-location($input);
-  $columns    : susy-get(columns, $input);
-  $width      : null;
+  $location: get-location($input);
+  $columns: susy-get(columns, $input);
+  $width: null;
 
   @if type-of($location) == number and not(unitless($location)) {
     $width: $location;
@@ -60,9 +60,9 @@
     $push: $location - 1;
     @if $push > 0 {
       $push: map-merge($input, (
-        span: $push,
-        location: 1,
-        spread: wide,
+              span: $push,
+              location: 1,
+              spread: wide,
       ));
       $width: get-span-width($push);
     }

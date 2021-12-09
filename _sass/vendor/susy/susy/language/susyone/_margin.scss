@@ -15,7 +15,7 @@
   $from     : $from-direction,
   $style    : fix-static-misalignment()
 ) {
-  $from     : unquote($from);
+  $from: unquote($from);
   margin-#{$from}: space($columns, $context, $style);
 }
 
@@ -26,7 +26,7 @@
   $from     : $from-direction,
   $style    : fix-static-misalignment()
 ) {
-  $from     : unquote($from);
+  $from: unquote($from);
   @include pre($columns, $context, $from, $style);
 }
 
@@ -44,7 +44,7 @@
   $from     : $from-direction,
   $style    : fix-static-misalignment()
 ) {
-  $from     : unquote($from);
+  $from: unquote($from);
   margin-#{$from}: 0 - space($columns, $context, $style);
 }
 
@@ -62,8 +62,8 @@
   $from     : $from-direction,
   $style    : fix-static-misalignment()
 ) {
-  $from     : unquote($from);
-  $to : opposite-position($from);
+  $from: unquote($from);
+  $to: opposite-position($from);
   margin-#{$to}: space($columns, $context, $style);
 }
 
@@ -83,7 +83,7 @@
   $from     : $from-direction,
   $style    : fix-static-misalignment()
 ) {
-  $from     : unquote($from);
+  $from: unquote($from);
   @if $pre {
     @include pre($pre, $context, $from, $style)
   }
