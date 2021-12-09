@@ -84,5 +84,4 @@
 | ---------------- | ---------------------------- | --------------------------------------------- |
 | 1. Cheer-for-fun | 目前由pkuer, ecnuer and scuter组成，欢迎新同学的加入。 | https://github.com/Cheer-for-fun/ |
 
-## 4. Contact with Me
 
