@@ -75,7 +75,7 @@
 <a href="https://twitter.com/@jiaxun71762860" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/@jiaxun71762860" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<a href="https://maimai.cn/contact/share/card?u=lqp3mwimqkpj&_share_channel=copy_link" target="_blank">
+<img src=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimage.codes51.com%2FArticle%2Fimage%2F20160505%2F20160505002237_3798.jpg&refer=http%3A%2F%2Fimage.codes51.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1641697394&t=3e832bf30c27ba6aa9c0faf1ee698aa9 alt=twitter style="margin-bottom: 5px;height: 28px" />
 </a>  
 </div>  
