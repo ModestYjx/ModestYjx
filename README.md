@@ -48,25 +48,25 @@
 
 ## 3. My open-source projects
 
-| 项目名称     | 简介                                                         | 地址                                          |
+| Nroject name     | Introduce                                                         | link address                                          |
 | ---------------- | ------------------------------------------------------------ | --------------------------------------------- |
 | 1. open-stuLife-sdk-backend  | 如题所示，此项目为一个 对 BBSer, ecnuer and scuter免费开放的开源项目，目前聚焦于解决大学生学习生活中的各种各种困难，未来的发展方向是做一整套学生生活、学习与创业等各项服务的SDK。 | https://github.com/Cheer-for-fun/open-stuLife-sdk-backend |
 | 2. open-stulife-sdk-frontend  | open-stuLife-sdk项目的前端部分。 | https://github.com/ModestYjx/open-stulife-sdk-frontend |
-| 3. “MAgriculture”--StrawberryPickingSolution  | 近年来，草莓采摘旅游进入到了人们的视野。通过设计一款基于人工智能的软件实现草莓成熟度检测、农作物知识普及与数字化农业管理，确保游客尽快采摘到成熟度最高的草莓，普及中小学生农村经验教育，并能提高游客游玩体验，节省农场主人力雇佣成本。 | https://github.com/Tiaozhanbei-6persons/StrawberryFarm-ObjectDetectionSystem & https://github.com/Tiaozhanbei-6persons/StrawberryFarmIMSystem-platform|
+| 3. “MAgriculture”--StrawberryPickingSolution  | 近年来，城镇郊区的草莓采摘体验式消费逐渐进入到了人们的视野之中。本文通过设计一款基于人工智能的大数据智能平台来实现大棚草莓成熟度检测、“生产、流通、销售、管理”全产业链追踪与儿童农作物生长周期体验式参观，盘活企业智慧农业平台数字资产，实现产业数字化、数字产业化。 | https://github.com/Tiaozhanbei-6persons/StrawberryFarm-ObjectDetectionSystem & https://github.com/Tiaozhanbei-6persons/StrawberryFarmIMSystem-platform|
 
 ## 4. My organizations
 
-| 组织名称         | 简介                         | 地址                                          |
+| Organization name        | Introduce                         | link address                                          |
 | ---------------- | ---------------------------- | --------------------------------------------- |
 | 1. Cheer-for-fun | 目前由pkuer, ecnuer and scuter组成，欢迎新同学的加入。 | https://github.com/Cheer-for-fun/ |
 | 2. Tiaozhenbei-6persons | 2021年-2022年北京大学软件与微电子学院挑战杯项目成员。 | https://github.com/Tiaozhanbei-6persons/ |
 
 ## 5. My internship experiences
 
-| 公司名称         | 简介                         | 岗位                                          |
-| ---------------- | ---------------------------- | --------------------------------------------- |
-| 1. 百度上海研发中心，ACG部门，算法实习生 | 探究了目标检测中存在的imbalanced问题，针对采样不平衡、特征层融合不均衡与分类回归 loss 强精度增强策略进行消融实验对比分析。 | 2020年9月-2020年12月 |
-| 2. 旷视科技，Rface组，算法实习生 | 对公司内部的目标检测任务的 eval feature 部分进行补充与完善。 | 2021年1月-2020年6月 |
+| Company name         | Post | Introduce                         | Term of office                                          |
+| ---------------- | ---------------------------- | --------------------------------------------- | --------------------------------------------- |
+| 1. 百度上海研发中心 | ACG部门，算法实习生 | 探究了目标检测中存在的imbalanced问题，针对采样不平衡、特征层融合不均衡与分类回归 loss 强精度增强策略进行消融实验对比分析。 | 2020年9月-2020年12月 |
+| 2. 旷视科技 | Rface组，算法实习生 | 对公司内部的目标检测任务的 eval feature 部分进行补充与完善。 | 2021年1月-2020年6月 |
 
 ## 6. Contact with me
 
