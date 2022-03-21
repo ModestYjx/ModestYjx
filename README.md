@@ -8,7 +8,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ModestYjx.readme)
 
-## 2. My Skill Set
+## 2. My Skill Sets
 
 <table><tr><td valign="top" width="33%">
 
@@ -46,7 +46,7 @@
 
 </td></tr></table>
 
-## 3. 我的开源项目
+## 3. My open-source projects
 
 | 项目名称     | 简介                                                         | 地址                                          |
 | ---------------- | ------------------------------------------------------------ | --------------------------------------------- |
@@ -54,14 +54,21 @@
 | 2. open-stulife-sdk-frontend  | open-stuLife-sdk项目的前端部分。 | https://github.com/ModestYjx/open-stulife-sdk-frontend |
 | 3. “MAgriculture”--StrawberryPickingSolution  | 近年来，草莓采摘旅游进入到了人们的视野。通过设计一款基于人工智能的软件实现草莓成熟度检测、农作物知识普及与数字化农业管理，确保游客尽快采摘到成熟度最高的草莓，普及中小学生农村经验教育，并能提高游客游玩体验，节省农场主人力雇佣成本。 | https://github.com/Tiaozhanbei-6persons/StrawberryFarm-ObjectDetectionSystem & https://github.com/Tiaozhanbei-6persons/StrawberryFarmIMSystem-platform|
 
-## 4. 我的组织
+## 4. My organizations
 
 | 组织名称         | 简介                         | 地址                                          |
 | ---------------- | ---------------------------- | --------------------------------------------- |
 | 1. Cheer-for-fun | 目前由pkuer, ecnuer and scuter组成，欢迎新同学的加入。 | https://github.com/Cheer-for-fun/ |
 | 2. Tiaozhenbei-6persons | 2021年-2022年北京大学软件与微电子学院挑战杯项目成员。 | https://github.com/Tiaozhanbei-6persons/ |
 
-## 5. Contact with me
+## 5. My internship experiences
+
+| 公司名称         | 简介                         | 岗位                                          |
+| ---------------- | ---------------------------- | --------------------------------------------- |
+| 1. 百度上海研发中心，ACG部门，算法实习生 | 探究了目标检测中存在的imbalanced问题，针对采样不平衡、特征层融合不均衡与分类回归 loss 强精度增强策略进行消融实验对比分析。 | 2020年9月-2020年12月 |
+| 2. 旷视科技，Rface组，算法实习生 | 对公司内部的目标检测任务的 eval feature 部分进行补充与完善。 | 2021年1月-2020年6月 |
+
+## 6. Contact with me
 
 | way | website                                      |
 | --------------- | -------------------------------------------- |
