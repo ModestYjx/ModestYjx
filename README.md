@@ -52,7 +52,7 @@
 | ---------------- | ------------------------------------------------------------ | --------------------------------------------- |
 | 1. open-stuLife-sdk-backend  | 如题所示，此项目为一个 对 BBSer, ecnuer and scuter免费开放的开源项目，目前聚焦于解决大学生学习生活中的各种各种困难，未来的发展方向是做一整套学生生活、学习与创业等各项服务的SDK。 | https://github.com/Cheer-for-fun/open-stuLife-sdk-backend |
 | 2. open-stulife-sdk-frontend  | open-stuLife-sdk项目的前端部分。 | https://github.com/ModestYjx/open-stulife-sdk-frontend |
-| 3. “MAgriculture”--StrawberryPickingSolution  | 近年来，城镇郊区的草莓采摘体验式消费逐渐进入到了人们的视野之中。本文通过设计一款基于人工智能的大数据智能平台来实现大棚草莓成熟度检测、“生产、流通、销售、管理”全产业链追踪与儿童农作物生长周期体验式参观，盘活企业智慧农业平台数字资产，实现产业数字化、数字产业化。 | https://github.com/Tiaozhanbei-6persons/StrawberryFarm-ObjectDetectionSystem & https://github.com/Tiaozhanbei-6persons/StrawberryFarmIMSystem-platform|
+| 3. “MAgriculture”--StrawberryPickingSolution  | 近年来，全国城镇郊区的“草莓采摘”体验式消费逐渐进入到了人们的视野。本文设计一款基于人工智能的大数据智能平台实现智能化引导草莓采摘与农业信息大数据分析。本平台将人工智能、大数据与传统农业销售的优势相互结合。一方面，能通过大数据分析技术助力提高农产品的商品率，助力于草莓企业打造具有当地特色的草莓品牌，提高企业收入。同时，能有利于提高中小企业应对风险的能力，在中西部地区农产品企业群中树立“产业数字化、数字产业化”典型，驱动全国乡村振兴建设。 | https://github.com/Tiaozhanbei-6persons/StrawberryFarm-ObjectDetectionSystem & https://github.com/Tiaozhanbei-6persons/StrawberryFarmIMSystem-platform|
 
 ## 4. My organizations
 
