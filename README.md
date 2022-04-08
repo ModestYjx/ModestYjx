@@ -68,7 +68,13 @@
 | 1. 百度上海研发中心 | ACG部门，算法实习生 | 探究了目标检测中存在的imbalanced问题，针对采样不平衡、特征层融合不均衡与分类回归 loss 强精度增强策略进行消融实验对比分析。 | 2020年9月-2020年12月 |
 | 2. 旷视科技 | Rface组，算法实习生 | 对公司内部的目标检测任务的 eval feature 部分进行补充与完善。 | 2021年1月-2020年6月 |
 
-## 6. Contact with me
+## 6. My algorithm practice
+
+| Repository name        | Link                                          |
+| ---------------- | --------------------------------------------- |
+| 1. algorithm-practice | https://github.com/ModestYjx/algorithm-practice |
+
+## 7. Contact with me
 
 | way | website                                      |
 | --------------- | -------------------------------------------- |
