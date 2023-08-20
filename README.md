@@ -2,8 +2,10 @@
 
 ## 1. Brief Introduction
 
-- 🔭 I’m currently a master student on **`<a href="https://www.pku.edu.cn/">`Peking University `</a>`**, majoring in Software engineering.
+- 🔭 I’m currently a master student on [**Peking University**](https://www.pku.edu.cn/) , majoring in Software engineering.
+
 - 🌱My research interests include [*Natural Language Object detection, Semantic segmentation, Image retrieval, Large language model*](https://github.com/JackHCC/NLP-Bubble).
+
 - ❓ You can get in touch with me by email at yjxcoder@gmail.com.
 
 ---
