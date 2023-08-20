@@ -6,6 +6,10 @@
 - 🌱My research interests include [*Natural Language Object detection, Semantic segmentation, Image retrieval, Large language model*](https://github.com/JackHCC/NLP-Bubble).
 - ❓ You can get in touch with me by email at yjxcoder@gmail.com.
 
+---
+
+
+
 ## 2. Education Experience
 
 
@@ -14,6 +18,7 @@
 
 **Graduate Student** 
 [**PKU**](https://www.pku.edu.cn/) School of Software and Microelectronics, Software Engineering • 2021/09/01 - 2024/07/01  
+
 Skills: `Object detection, Image classification, Image retrieval `etc.
 
 Lab: Smart Education Lab.
@@ -30,7 +35,9 @@ Lab: Big Data Lab.
 
 
 
-<br>
+---
+
+
 
 ## 3. Github Stats
 
@@ -44,7 +51,12 @@ Lab: Big Data Lab.
 <img src="https://komarev.com/ghpvc/?username=ModestYjx&&style=flat-square" align="center" />
 </div>  
 
+---
+
+
+
 ## 4. Skill Set  
+
 <table><tr><td valign="top" width="33%">
 
 ### Language  
@@ -87,6 +99,9 @@ Lab: Big Data Lab.
 
 
 
+---
+
+
 
 ## 5. Internship experiences
 
@@ -96,6 +111,10 @@ Lab: Big Data Lab.
 | 旷视科技         | Rface组                               | 机器学习算法实习生        | 语意分割，目标检测           | 2021年4月-2021年12月 |
 | 百度 | ACG部门                               | 深度学习算法实习生        | 目标检测                     | 2021年1月-2020年6月  |
 
+---
+
+
+
 ## 6. Open-source projects
 
 | Project name                                   | Introduce                                                                                                                                                                                                      | link address                                                                                                                                           |
@@ -104,12 +123,20 @@ Lab: Big Data Lab.
 | 2. open-stulife-sdk-frontend                   | open-stuLife-sdk项目的前端部分。                                                                                                                                                                               | https://github.com/ModestYjx/open-stulife-sdk-frontend                                                                                                 |
 | 3. “MAgriculture”--StrawberryPickingSolution | 近年来，全国城镇郊区的“草莓采摘”体验式消费逐渐进入到了人们的视野。本文设计一款基于人工智能的大数据智能平台实现智能化引导草莓采摘与农业信息大数据分析。本平台将人工智能、大数据与传统农业销售的优势相互结合。 | https://github.com/Tiaozhanbei-6persons/StrawberryFarm-ObjectDetectionSystem & https://github.com/Tiaozhanbei-6persons/StrawberryFarmIMSystem-platform |
 
+---
+
+
+
 ## 7. Organizations
 
 | Organization name       | Introduce                                              | link address                             |
 | ----------------------- | ------------------------------------------------------ | ---------------------------------------- |
 | 1. Cheer-for-fun        | 目前由pkuer, ecnuer and scuter组成，欢迎新同学的加入。 | https://github.com/Cheer-for-fun/        |
 | 2. Tiaozhenbei-6persons | 2021年-2022年北京大学软件与微电子学院挑战杯项目成员。  | https://github.com/Tiaozhanbei-6persons/ |
+
+---
+
+
 
 ## 8. Contact with me
 
