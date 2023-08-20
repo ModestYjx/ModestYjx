@@ -8,23 +8,23 @@
 
 ## 2. Education Experience
 
+
+
+[<img align="left" height="117.5px" width="117.5px" alt="PKU" src="./images/icons/PKU.png"/>](https://www.pku.edu.cn/)
+
 **Graduate Student** 
+[**PKU**](https://www.pku.edu.cn/) School of Software and Microelectronics, Software Engineering • 2021/09/01 - 2024/07/01  
+Skills: `Object detection, Image classification, Image retrieval, Active learning`, `etc.`
+Lab: Smart Education Lab.
 
-[<img align="left" height="94px" width="94px" alt="PKU" src="./images/icons/PKU.png"/>](https://www.pku.edu.cn/)
+<br>
 
-[**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - 2024/07/01  <br>
-
-Skills: `Object detection, Image classification, Image retrieval, Active learning.`, `etc.`
-<br/>
-
+[<img align="left" height="117.5px" width="117.5px" alt="NCU" src="./images/icons/NCU5.png"/>](https://www.ncu.edu.cn/)
 
 **Bachelor Degree** 
-
-[<img align="left" height="94px" width="94px" alt="NCU" src="./images/icons/NCU.png"/>](https://www.pku.edu.cn/)
-
-**NCU** • 2017/09/01 - 2021/07/01 <br>
-Skills: `Object detection` `etc.`
-
+[**NCU**](https://www.ncu.edu.cn/) Software School, Software Engineering • 2017/09/01 - 2021/07/01 
+Skills: `Object detection, Git, Pandaframe, Python, Kmeans, Dbscan, UDA` `etc.`
+Lab: Big Data Lab.
 
 
 <br>
