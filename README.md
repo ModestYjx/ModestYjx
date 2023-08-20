@@ -8,20 +8,21 @@
 
 ## 2. Education Experience
 
-**Graduate Student**
+**Graduate Student** 
 
 [<img align="left" height="94px" width="94px" alt="PKU" src="./images/icons/PKU.png"/>](https://www.pku.edu.cn/)
 
-[**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - 2024/07/01
+[**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - 2024/07/01  <br>
+
 Skills: `Object detection, Image classification, Image retrieval, Active learning.`, `etc.`
 <br/>
 
 
-**Bachelor Degree**
+**Bachelor Degree** 
 
 [<img align="left" height="94px" width="94px" alt="NCU" src="./images/icons/NCU.png"/>](https://www.pku.edu.cn/)
 
-**NCU** • 2017/09/01 - 2021/07/01
+**NCU** • 2017/09/01 - 2021/07/01 <br>
 Skills: `Object detection` `etc.`
 
 
