@@ -10,8 +10,12 @@
 
 **Graduate Student**
 
+[<img align="left" height="94px" width="94px" alt="PKU" src="./images/icons/NCU.png"/>](https://www.pku.edu.cn/)
+
 [**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - 2024/07/01
 Skills: `Object detection, Image classification, Image retrieval, Active learning.`, `etc.`
+
+[<img align="left" height="94px" width="94px" alt="NCU" src="./images/icons/NCU.png"/>](https://www.pku.edu.cn/)
 
 **Bachelor Degree**
 
@@ -30,7 +34,7 @@ Skills: `Object detection` `etc.`
 <img src="https://komarev.com/ghpvc/?username=ModestYjx&&style=flat-square" align="center" />
 </div>  
 
-## 4. My Skill Set  
+## 4. Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Language  
@@ -86,7 +90,7 @@ Skills: `Object detection` `etc.`
 
 | Project name                                   | Introduce                                                                                                                                                                                                      | link address                                                                                                                                           |
 | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1. open-stuLife-sdk-backend                    | 如题所示，此项目为一个 对 BBSer, ecnuer and scuter免费开放的开源项目，目前聚焦于解决大学生学习生活中的各种各种困难，未来的发展方向是做一整套学生生活、学习与创业等各项服务的SDK。                              | https://github.com/Cheer-for-fun/open-stuLife-sdk-backend                                                                                              |
+| 1. open-stuLife-sdk-backend                    | 此项目为一个 对 BBSer, ecnuer and scuter免费开放的开源项目，目前聚焦于解决大学生学习生活中的各种各种困难，未来的发展方向是做一整套学生生活、学习与创业等各项服务的SDK。                              | https://github.com/Cheer-for-fun/open-stuLife-sdk-backend                                                                                              |
 | 2. open-stulife-sdk-frontend                   | open-stuLife-sdk项目的前端部分。                                                                                                                                                                               | https://github.com/ModestYjx/open-stulife-sdk-frontend                                                                                                 |
 | 3. “MAgriculture”--StrawberryPickingSolution | 近年来，全国城镇郊区的“草莓采摘”体验式消费逐渐进入到了人们的视野。本文设计一款基于人工智能的大数据智能平台实现智能化引导草莓采摘与农业信息大数据分析。本平台将人工智能、大数据与传统农业销售的优势相互结合。 | https://github.com/Tiaozhanbei-6persons/StrawberryFarm-ObjectDetectionSystem & https://github.com/Tiaozhanbei-6persons/StrawberryFarmIMSystem-platform |
 
