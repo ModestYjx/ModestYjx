@@ -14,6 +14,7 @@
 Skills: `Object detection, Image classification, Image retrieval, Active learning.`, `etc.`
 
 **Bachelor Degree**
+
 **NCU** • 2017/09/01 - 2021/07/01
 Skills: `Object detection` `etc.`
 
