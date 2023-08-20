@@ -24,9 +24,10 @@ Skills: `Object detection, Image classification, Image retrieval, Active learnin
 
 [<img align="left" height="94px" width="94px" alt="NCU" src="./images/icons/NCU.png"/>](https://www.pku.edu.cn/)
 
-
 **NCU** • 2017/09/01 - 2021/07/01
 Skills: `Object detection` `etc.`
+
+
 
 ## 3. Github Stats
 
