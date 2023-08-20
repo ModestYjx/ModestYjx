@@ -33,7 +33,7 @@ Lab: Smart Education Lab.
 <br>
 
 
-[<img align="left" height="128px" width="128px" alt="NCU" src="./images/icons/NCU5.png"/>](https://www.ncu.edu.cn/)
+[<img align="left" height="128px" width="128px" alt="NCU" src="./images/icons/NCU.png"/>](https://www.ncu.edu.cn/)
 
 **Bachelor Degree** 
 
