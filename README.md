@@ -14,10 +14,7 @@
 
 [**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - 2024/07/01
 Skills: `Object detection, Image classification, Image retrieval, Active learning.`, `etc.`
-
-
 <br/>
-<!-- <br/> -->
 
 
 **Bachelor Degree**
