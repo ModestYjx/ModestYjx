@@ -27,6 +27,7 @@ Skills: `Object detection` `etc.`
 
 
 
+<br>
 ## 3. Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ModestYjx&show_icons=true)
@@ -89,7 +90,7 @@ Skills: `Object detection` `etc.`
 | ---------------- | ------------------------------------- | ------------------------- | ---------------------------- | -------------------- |
 | 小红书           | 多模态算法组（连续2届extra mile冠军） | 计算机视觉/搜索算法实习生 | 图像检索，目标检测，图像分类 | 2022年11月-2023年3月 |
 | 旷视科技         | Rface组                               | 机器学习算法实习生        | 语意分割，目标检测           | 2021年4月-2021年12月 |
-| 百度上海研发中心 | ACG部门                               | 深度学习算法实习生        | 目标检测                     | 2021年1月-2020年6月  |
+| 百度 | ACG部门                               | 深度学习算法实习生        | 目标检测                     | 2021年1月-2020年6月  |
 
 ## 6. Open-source projects
 
