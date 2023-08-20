@@ -10,10 +10,12 @@
 
 **Graduate Student**
 
-[<img align="left" height="94px" width="94px" alt="PKU" src="./images/icons/NCU.png"/>](https://www.pku.edu.cn/)
+[<img align="left" height="94px" width="94px" alt="PKU" src="./images/icons/PKU.png"/>](https://www.pku.edu.cn/)
 
 [**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - 2024/07/01
 Skills: `Object detection, Image classification, Image retrieval, Active learning.`, `etc.`
+
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="NCU" src="./images/icons/NCU.png"/>](https://www.pku.edu.cn/)
 
