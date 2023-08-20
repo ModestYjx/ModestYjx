@@ -30,8 +30,12 @@ Lab: Smart Education Lab.
 
 **Bachelor Degree** 
 [**NCU**](https://www.ncu.edu.cn/) Software School, Software Engineering • 2017/09/01 - 2021/07/01 
+
 Skills: `Object detection, Git, Pandaframe, Python, Kmeans, Dbscan, UDA` etc.
+
 Lab: Big Data Lab.
+
+
 
 
 
