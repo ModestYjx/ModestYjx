@@ -14,20 +14,20 @@
 
 **Graduate Student** 
 [**PKU**](https://www.pku.edu.cn/) School of Software and Microelectronics, Software Engineering • 2021/09/01 - 2024/07/01  
-Skills: `Object detection, Image classification, Image retrieval, Active learning`, `etc.`
+Skills: `Object detection, Image classification, Image retrieval `etc.
+
 Lab: Smart Education Lab.
 
-<br>
 
 [<img align="left" height="117.5px" width="117.5px" alt="NCU" src="./images/icons/NCU5.png"/>](https://www.ncu.edu.cn/)
 
 **Bachelor Degree** 
 [**NCU**](https://www.ncu.edu.cn/) Software School, Software Engineering • 2017/09/01 - 2021/07/01 
-Skills: `Object detection, Git, Pandaframe, Python, Kmeans, Dbscan, UDA` `etc.`
+Skills: `Object detection, Git, Pandaframe, Python, Kmeans, Dbscan, UDA` etc.
 Lab: Big Data Lab.
 
 
-<br>
+
 ## 3. Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ModestYjx&show_icons=true)
