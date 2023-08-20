@@ -1,6 +1,24 @@
 # Hi,here！👋
 
-## 1. 阳家勋 YANG Jiaxun Github Stats
+## 1. Brief Introduction
+- 🔭 I’m currently a master student on **`<a href="https://www.pku.edu.cn/">`Peking University `</a>`**, majoring in Software engineering.
+- 🌱My research interests include [*Natural Language Object detection, Semantic segmentation, Image retrieval, Large language model*](https://github.com/JackHCC/NLP-Bubble).
+- ❓ You can get in touch with me by email at yjxcoder@gmail.com.
+
+
+## 2. Education Experience
+
+**Graduate Student**
+
+[**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - 2024/07/01
+Skills: `Object detection, Image classification, Image retrieval, Active learning.`, `etc.`
+
+**Bachelor Degree**
+**NCU** • 2017/09/01 - 2021/07/01
+Skills: `Object detection` `etc.`
+
+
+## 3. Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ModestYjx&show_icons=true)
 
@@ -8,80 +26,78 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ModestYjx.readme)
 
-## 2. My Skill Sets
-
+## 4. My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### Frontend
-
+### Language  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
-### Backend
 
+
+### Framework  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
-### DevOps
 
+
+### Backen & DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>
 
-</td></tr></table>
+</td></tr></table>  
 
-## 3. My open-source projects
+<br/>  
 
-| Project name     | Introduce                                                         | link address                                          |
-| ---------------- | ------------------------------------------------------------ | --------------------------------------------- |
-| 1. open-stuLife-sdk-backend  | 如题所示，此项目为一个 对 BBSer, ecnuer and scuter免费开放的开源项目，目前聚焦于解决大学生学习生活中的各种各种困难，未来的发展方向是做一整套学生生活、学习与创业等各项服务的SDK。 | https://github.com/Cheer-for-fun/open-stuLife-sdk-backend |
-| 2. open-stulife-sdk-frontend  | open-stuLife-sdk项目的前端部分。 | https://github.com/ModestYjx/open-stulife-sdk-frontend |
-| 3. “MAgriculture”--StrawberryPickingSolution  | 近年来，全国城镇郊区的“草莓采摘”体验式消费逐渐进入到了人们的视野。本文设计一款基于人工智能的大数据智能平台实现智能化引导草莓采摘与农业信息大数据分析。本平台将人工智能、大数据与传统农业销售的优势相互结合。 | https://github.com/Tiaozhanbei-6persons/StrawberryFarm-ObjectDetectionSystem & https://github.com/Tiaozhanbei-6persons/StrawberryFarmIMSystem-platform|
 
-## 4. My organizations
 
-| Organization name        | Introduce                         | link address                                          |
-| ---------------- | ---------------------------- | --------------------------------------------- |
-| 1. Cheer-for-fun | 目前由pkuer, ecnuer and scuter组成，欢迎新同学的加入。 | https://github.com/Cheer-for-fun/ |
-| 2. Tiaozhenbei-6persons | 2021年-2022年北京大学软件与微电子学院挑战杯项目成员。 | https://github.com/Tiaozhanbei-6persons/ |
 
 ## 5. My internship experiences
 
-| Company name         | Post | Introduce                         | Term of office                                          |
-| ---------------- | ---------------------------- | --------------------------------------------- | --------------------------------------------- |
-| 1. 百度上海研发中心 | ACG部门，算法实习生 | 探究了目标检测中存在的imbalanced问题，针对采样不平衡、特征层融合不均衡与分类回归 loss 强精度增强策略进行消融实验对比分析。 | 2020年9月-2020年12月 |
-| 2. 旷视科技 | Rface组，算法实习生 | 对公司内部的目标检测任务的 eval feature 部分进行补充与完善。 | 2021年1月-2020年6月 |
+| Company name     | Job Information                         | Technology stack             | Term of office       |
+| ---------------- | --------------------------------------- | ---------------------------- | -------------------- |
+| 小红书           | 多模态算法组，计算机视觉/搜索算法实习生 | 图像检索，目标检测，图像分类 | 2022年11月-2023年3月 |
+| 旷视科技         | Rface组，机器学习算法实习生             | 语意分割，目标检测           | 2021年4月-2021年12月 |
+| 百度上海研发中心 | ACG部门，深度学习算法实习生             | 目标检测                     | 2021年1月-2020年6月  |
 
-## 6. My algorithm practice
+## 6. My open-source projects
 
-| Repository name        | Link                                          |
-| ---------------- | --------------------------------------------- |
-| 1. algorithm-practice | https://github.com/ModestYjx/algorithm-practice |
+| Project name                                   | Introduce                                                                                                                                                                                                      | link address                                                                                                                                           |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1. open-stuLife-sdk-backend                    | 如题所示，此项目为一个 对 BBSer, ecnuer and scuter免费开放的开源项目，目前聚焦于解决大学生学习生活中的各种各种困难，未来的发展方向是做一整套学生生活、学习与创业等各项服务的SDK。                              | https://github.com/Cheer-for-fun/open-stuLife-sdk-backend                                                                                              |
+| 2. open-stulife-sdk-frontend                   | open-stuLife-sdk项目的前端部分。                                                                                                                                                                               | https://github.com/ModestYjx/open-stulife-sdk-frontend                                                                                                 |
+| 3. “MAgriculture”--StrawberryPickingSolution | 近年来，全国城镇郊区的“草莓采摘”体验式消费逐渐进入到了人们的视野。本文设计一款基于人工智能的大数据智能平台实现智能化引导草莓采摘与农业信息大数据分析。本平台将人工智能、大数据与传统农业销售的优势相互结合。 | https://github.com/Tiaozhanbei-6persons/StrawberryFarm-ObjectDetectionSystem & https://github.com/Tiaozhanbei-6persons/StrawberryFarmIMSystem-platform |
 
-## 7. Contact with me
+## 7. My organizations
 
-| way | website                                      |
-| --------------- | -------------------------------------------- |
-| email           | yjxcoder@gmail.com                           |
-| zhihu           | https://www.zhihu.com/people/yang-jia-xun-66 |
-| gitee           | https://gitee.com/yang929604665              |
-| 脉脉           | https://maimai.cn/contact/share/card?u=lqp3mwimqkpj&_share_channel=copy_link             |
+| Organization name       | Introduce                                              | link address                             |
+| ----------------------- | ------------------------------------------------------ | ---------------------------------------- |
+| 1. Cheer-for-fun        | 目前由pkuer, ecnuer and scuter组成，欢迎新同学的加入。 | https://github.com/Cheer-for-fun/        |
+| 2. Tiaozhenbei-6persons | 2021年-2022年北京大学软件与微电子学院挑战杯项目成员。  | https://github.com/Tiaozhanbei-6persons/ |
+
+## 8. Contact with me
+
+| way   | website            |
+| ----- | ------------------ |
+| email | yjxcoder@gmail.com |
 
 <div align="center">
 <a href="https://github.com/ModestYjx" target="_blank">
@@ -93,4 +109,4 @@
 <a href="https://maimai.cn/contact/share/card?u=lqp3mwimqkpj&_share_channel=copy_link" target="_blank">
 <img src=https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimage.codes51.com%2FArticle%2Fimage%2F20160505%2F20160505002237_3798.jpg&refer=http%3A%2F%2Fimage.codes51.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1641697394&t=3e832bf30c27ba6aa9c0faf1ee698aa9 alt=twitter style="margin-bottom: 5px;height: 28px" />
 </a>  
-</div>  
+</div>
