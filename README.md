@@ -14,19 +14,21 @@
 
 
 
-[<img align="left" height="117.5px" width="117.5px" alt="PKU" src="./images/icons/PKU.png"/>](https://www.pku.edu.cn/)
+[<img align="left" height="108px" width="108px" alt="PKU" src="./images/icons/PKU.png"/>](https://www.pku.edu.cn/)
 
 **Graduate Student** 
 [**PKU**](https://www.pku.edu.cn/) School of Software and Microelectronics, Software Engineering • 2021/09/01 - 2024/07/01  
-
 Skills: `Object detection, Image classification, Image retrieval `etc.
-
 Lab: Smart Education Lab.
 
 
 
 
-[<img align="left" height="117.5px" width="117.5px" alt="NCU" src="./images/icons/NCU5.png"/>](https://www.ncu.edu.cn/)
+
+<br>
+
+
+[<img align="left" height="108px" width="108px" alt="NCU" src="./images/icons/NCU5.png"/>](https://www.ncu.edu.cn/)
 
 **Bachelor Degree** 
 [**NCU**](https://www.ncu.edu.cn/) Software School, Software Engineering • 2017/09/01 - 2021/07/01 
@@ -71,7 +73,6 @@ Lab: Big Data Lab.
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
